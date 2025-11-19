@@ -29,7 +29,7 @@ const Hero = () => {
             transition={{ type: "spring", stiffness: 300 }}
           >
             <img
-              src="/photo_identite/Photo_identite.jpg"
+              src="/Photo_identite.jpg"
               alt="Photo d'identité"
               className="w-32 h-32 sm:w-40 sm:h-40 md:w-48 md:h-48 rounded-full border-4 border-gold shadow-2xl object-cover"
             />

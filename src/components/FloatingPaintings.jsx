@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 const FloatingPaintings = () => {
   const paintings = [
     {
-      src: "/Peintures/Images/Joseph_Wright_of_Derby_The_Alchemist.jpg",
+      src: "/Joseph_Wright_of_Derby_The_Alchemist.jpg",
       width: 220,
       top: "15%",
       left: "3%",
@@ -12,7 +12,7 @@ const FloatingPaintings = () => {
       delay: 0
     },
     {
-      src: "/Peintures/Images/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
+      src: "/Johannes_Vermeer_-_The_Astronomer_-_1668.jpg",
       width: 200,
       top: "12%",
       right: "5%",
@@ -20,7 +20,7 @@ const FloatingPaintings = () => {
       delay: 0.5
     },
     {
-      src: "/Peintures/Images/Wright_of_Derby,_The_Orrery.jpg",
+      src: "/Wright_of_Derby,_The_Orrery.jpg",
       width: 240,
       bottom: "25%",
       left: "2%",
@@ -28,7 +28,7 @@ const FloatingPaintings = () => {
       delay: 1
     },
     {
-      src: "/Peintures/Images/Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
+      src: "/Johannes_Vermeer_-_The_Geographer_-_Google_Art_Project.jpg",
       width: 210,
       bottom: "20%",
       right: "4%",
@@ -36,7 +36,7 @@ const FloatingPaintings = () => {
       delay: 1.5
     },
     {
-      src: "/Peintures/Images/An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg",
+      src: "/An_Experiment_on_a_Bird_in_an_Air_Pump_by_Joseph_Wright_of_Derby,_1768.jpg",
       width: 260,
       top: "65%",
       left: "10%",
@@ -44,7 +44,7 @@ const FloatingPaintings = () => {
       delay: 2
     },
     {
-      src: "/Peintures/Images/Laocoon_and_His_Sons.jpg",
+      src: "/Laocoon_and_His_Sons.jpg",
       width: 230,
       top: "40%",
       left: "15%",
@@ -52,7 +52,7 @@ const FloatingPaintings = () => {
       delay: 2.5
     },
     {
-      src: "/Peintures/Images/Le_prêteur_et_sa_femme_-_Quentin_Metsys_-_Musée_du_Louvre_Peintures_INV_1444_;_MR_821.jpg",
+      src: "/Le_prêteur_et_sa_femme_-_Quentin_Metsys_-_Musée_du_Louvre_Peintures_INV_1444_;_MR_821.jpg",
       width: 210,
       bottom: "35%",
       right: "12%",

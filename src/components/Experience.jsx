@@ -7,7 +7,7 @@ const Experience = () => {
       {
         title: "Téléconseiller pour les Services Étudiants",
         company: "Centre régional des œuvres universitaires et scolaires",
-        logo: "/Logo/logo-crous.png",
+        logo: "/logo-crous.png",
         website: "https://www.crous-strasbourg.fr/",
         date: "Mars 2024 - Présent",
         description: "Prise en charge d'une cinquantaine d'appels par jour. Assistance et guidance des étudiants pour les bourses sur critères sociaux, le logement et autres sujets. Assimilation rapide d'une circulaire complexe et résolution efficace des problématiques étudiantes."
@@ -15,7 +15,7 @@ const Experience = () => {
       {
         title: "Ludothécaire",
         company: "Ludothèque Saint-Nicolas",
-        logo: "/Logo/ludotheque.png",
+        logo: "/ludotheque.png",
         website: "https://www.nancy.fr/culture/bibliotheques-mediatheques-de-nancy/ludotheque-saint-nicolas",
         date: "Juillet 2023 - Août 2023", 
         description: "Accueil de 80 visiteurs par jour en moyenne. Introduction variée à des jeux de société dans une collection de plus de 20 000 jeux. Médiation culturelle et animation auprès d'un public diversifié."
@@ -23,7 +23,7 @@ const Experience = () => {
       {
         title: "Bénévole polyvalent",
         company: "Musée Adolf Michaelis",
-        logo: "/Logo/musee_adolf_michaelis.png",
+        logo: "/musee_adolf_michaelis.png",
         website: "https://amamstrasbourg.org/",
         date: "Mars 2023 - Présent",
         description: "Accueil des visiteurs, orientation dans les expositions et assistance lors d'événements spéciaux. Contribution active à la vie culturelle du musée et à la médiation du patrimoine artistique."
